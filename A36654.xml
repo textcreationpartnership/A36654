@@ -1,0 +1,326 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A third reply, or, A short return to Mr. Baxters brief answer to my second reply, in his postscript to a late treatise of justification wherein his contradictious and slanderous way of writing is further detected / by H. D'Anvers.</title>
+            <author>Danvers, Henry, d. 1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36654</idno>
+            <idno type="STC">Wing D232</idno>
+            <idno type="STC">ESTC R36070</idno>
+            <idno type="EEBO-CITATION">15599450</idno>
+            <idno type="OCLC">ocm 15599450</idno>
+            <idno type="VID">104041</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36654)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104041)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1590:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A third reply, or, A short return to Mr. Baxters brief answer to my second reply, in his postscript to a late treatise of justification wherein his contradictious and slanderous way of writing is further detected / by H. D'Anvers.</title>
+                  <author>Danvers, Henry, d. 1687.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] printed :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 14.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baxter, Richard, 1615-1691. --  More proofs of infants church-membership and consequently their right to baptism.</term>
+               <term>Baxter, Richard, 1615-1691. --  Treatise of justifying righteousness.</term>
+               <term>Baptism --  Early works to 1800.</term>
+               <term>Anabaptists --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104041:1" rendition="simple:additions"/>
+            <p>A Third Reply; OR A ſhort Return to Mr. Baxters brief Anſwer to my Second Reply, in his Poſtſcript to a late Treatiſe of Juſtification.</p>
+            <p>WHEREIN His Contradictions, and Slanderous way of Writing, is further detected.</p>
+            <p>By H. D.'Anvers.</p>
+            <q>
+               <p>He that will injuriouſly ſpeak to the World, what he ſhould not ſpeak, must look to hear what he would not hear.</p>
+               <bibl>Mr. <hi>Bax.</hi> Treat. of Juſt. in Anſwer to Dr. <hi>Tully,</hi> p. 76.</bibl>
+            </q>
+            <q>
+               <bibl>Job 21.34.</bibl>
+               <p>In your Anſwer there remaineth falſhood.</p>
+            </q>
+            <q>
+               <bibl>2 Tim. 3.8, 9.</bibl>
+               <p>Now as <hi>Jannes</hi> and <hi>Jamberes</hi> with stood <hi>Moſes,</hi> ſo do theſe men reſiſt the Truth, <hi>&amp;c.</hi> But they ſhall proceed no further, for their folly ſhall be manifest unto all men.</p>
+            </q>
+            <p>Printed Anno 1676.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:104041:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THE deſign of this Paper is not to gain the maſtry, or to get the last word, to vie ſlan<g ref="char:EOLhyphen"/>ders with my Antagoniſt or to return him rayling, for rayling, which would be as vain, as ridiculous (if not impious) to attempt, eſpecially in a conteſt with ſuch a maſter of words, and who has given himſelf the liberty to let his Pen looſe in ſo luxuri<g ref="char:EOLhyphen"/>ant a manner with whomſoever he contends.</p>
+            <p>But as you'l find, to make a neceſsary and ho<g ref="char:EOLhyphen"/>neſt defence againſt a new perſonal charge; to plead the juſt vindication of an innocent people from his repeated ſlanders, by detecting the falſhood of his feigned pretences in juſtification thereof.</p>
+            <p>To diſcover to himſelf and others how little Demonstration or Conviction there is in his Mageſterial way of Dictating. And to de<g ref="char:EOLhyphen"/>clare my hearty concurrence to his fair mo<g ref="char:EOLhyphen"/>tion of putting an end to our former Conteſt, by a candid peruſal of our Books, to which he honeſt<g ref="char:EOLhyphen"/>ly refers the Reader, and to which I am willing to ſtand or fall.</p>
+            <p>Wherein if the Truth may have any advan<g ref="char:EOLhyphen"/>tage, Mr. Baxter any benefit, the disturbed World any due ſatisfaction, or the Church any real profit, my end is abundantly anſwered, who de<g ref="char:EOLhyphen"/>ſire in all things to approve my ſelf a ſincer lo<g ref="char:EOLhyphen"/>ver, and faithful ſervant of the Truth, whilſt</p>
+            <closer>
+               <signed>H. D'Anvers.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:104041:2"/>
+            <head>A 3d. Reply; Or a ſhort Return to Mr. Baxters Brief Anſwer to my 2d. Reply, in his Postſcript to a late Treatiſe of Justification, &amp;c.</head>
+            <p>MR. Baxter having, as he ſaith, peruſed my 2d. Reply, and being, as I conceive much concerned thereat, (notwithſtanding his promiſed ſilence) doth, for the better eaſing of his diſturbed mind, and galled conſcience, give a very angry return in a curr, but coſtly, Poſt<g ref="char:EOLhyphen"/>ſcript, which he has ordered to be annexed to his late Treatiſe of Juſtification, in anſwer to Dr. Tully, (ſince the publication thereof:) I ſay coſtly, becauſe by that Artifice, though it be but 7 Pages, is not uſually to be Purchaſed under 5 s. The which may be briefly conſidered under theſe following Heads, compre<g ref="char:EOLhyphen"/>hending the whole, viz.</p>
+            <p>Firſt, the generall Confutation he gives the Book. 2dly. His general reference to the Books themſelves. 3dly. The 2 particu<g ref="char:EOLhyphen"/>lar Inſtances he inſiſts on for his own Vindication, and my Re<g ref="char:EOLhyphen"/>proof. 4ly His quibbling reflections upon me and my Back.</p>
+            <p>
+               <note place="margin">1. The ge<g ref="char:EOLhyphen"/>neral Con<g ref="char:EOLhyphen"/>futation.</note>In the firſt place, you'l find he is pleaſed in his old Reviling way (which he cannot forbear) to confute me by whole-ſale (with a Bellarmine thou lyeſt) telling us in ſo many words, That he judges it uſeleſs to give the World a particular detection of the evils (themſelves) and that if he had ſo little to do with his time to write ie, he ſuppoſes, few would find leaſure to read it: And therefore inſtead of any other confutation, we muſt upon his word take it to be a bundle of miſtakes, fierceneſs, and confidence ſet off with the greateſt Audacity, &amp;c. p. 74.</p>
+            <p>And if this be not an excellent way of Information and Con<g ref="char:EOLhyphen"/>viction, and a very exemplary piece of Juſtice, to be thus Judge and Executioner in his own Caſe, (without the leaſt Demon<g ref="char:EOLhyphen"/>ſtration, and that againſt the fulleſt proof and evidence) is ſub<g ref="char:EOLhyphen"/>mitted to better Judgment. As though a Dictators Ipſo Dixit, big Hectoring words, and contemptuous ill-Language, inſtead of Proof, ſound Arguments, and meek Inſtruction, was the beſt way to ſtop the mouths of Gain-ſayers, to ſilence Oppoſers, and in<g ref="char:EOLhyphen"/>form the World.</p>
+            <p>
+               <note place="margin">2. His Re<g ref="char:EOLunhyphen"/>ference <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Books.</note> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut 2dly growing a little cooler, and better bethinking him<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, he is content to allow the Reader ſome ſhare in the Judg<g ref="char:EOLhyphen"/>ment, and to that end gives him leave to peruſe his Book with mine; to examine the Authors about whoſe words or ſenſe we differ, p. 74. which is indeed ſomething like. And therefore to ſo fair a Motion (ſince his Ingenuity leads him not to a confeſſion of ſo many things ſo palpably proved againſt him) I heartily joyn
+<pb n="2" facs="tcp:104041:3"/>Iſſue with him: Not doubting to meet with a more impartial Deciſion from a Candid Reader.</p>
+            <p>And therefore to that end I do moſt earneſtly recommend to his diligent ſearch, having Mr. Baxters Book (and Mr. Barrots Quaeri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s he alſo mentions and refers to) in one hand, and my Book in the other) the following Particulars wherein the greateſt difference his betwixt us, viz.</p>
+            <list>
+               <item>1. Whether Mr. Baxter hath not fully juſtified my Book, he ſo ſcor<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tes againſt in all the parts thereof, as maintained in the firſt Chapter. And not only the Doctrinal part, [his Ca<g ref="char:EOLhyphen"/>vils being ſo fu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y replyed to, and removed, p 22, &amp;c.] but the Hi<g ref="char:EOLhyphen"/>ſtorical part alſo having ſo fully given up the thing, he and his Part<g ref="char:EOLhyphen"/>ners ſo ſhamefully wrangle about, as p. 18, &amp;c.</item>
+               <item>2. Whether my Witneſſes againſt Infants Baptiſm are not ſub<g ref="char:EOLhyphen"/>ſtantially juſtified againſt all his Cavils, and freed from his hai<g ref="char:EOLhyphen"/>nous charge of Forgery and Prevarication, viz. The Donatiſts, Ancient Brittains, Waldenſes and Wickliffians, as p. 33. to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>53.</item>
+               <item>3. Whether Mr. B's notorious ſlanders of the Anabaptiſts and Vaniſts, are not ſubſtantially evidenced, as p. 154, to 175.</item>
+               <item>4. Whether his ſhameful broad-fac'd contradictions are not ma<g ref="char:EOLhyphen"/>nifeſtly detecte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from his own Writings, particularly as being for and againſt Epiſcopacy, p. 175. for and againſt Non-conformity, p. 222. for and againſt Arminianiſme, p. 204. for and againſt Tradition, p 207. for and againſt Popery, p 218, &amp;c.</item>
+               <item>5. Whether it doth not evidently appear by undeniable demon<g ref="char:EOLhyphen"/>ſtration, that Mr. B. is notoriouſly guilty of Forgery, Prevaricati<g ref="char:EOLhyphen"/>on, and falſifying Authorities. Particularly 1ſt. in Fathering that Popiſh confeſſion on the Waldenſes, leaving out what ſhould diſco<g ref="char:EOLhyphen"/>ver the ſame, p. 98, &amp;c. 2dly. Denying Bede to mention any thing of Birinus, as I affirmed, or that the Iſle of Weight was in lower Saxony, the truth of both being ſo fully made appear, p. 75. 3dly. His notorious falſifications about Beringarius, 263. 4ly. His egregious a<g ref="char:EOLhyphen"/>buſing Dr. Prideux, the 2d. Lateran Council. Otto Friſingenſes and Binius, about Peter Bruis and Arnoldus Teſtimonies, p. 263, &amp;c. 5ly. His moſt notorious abuſe of Wickliff in many particulars, p 263. &amp;c. 6ly. His ſtrange aſſertions and monſtrous contradictions about the Creed, p. 209 And 7ly. His very evil dealing about the Revela<g ref="char:EOLhyphen"/>tions, p. 230. But eſpecially about the Scriptures themſelves, p. 243.</item>
+               <item>6. Whether there is not a faithful Collection of ſome of his ſhameful Billings-gate Language, ſo unbecoming either a Man or a Chriſtian, p. 259.</item>
+            </list>
+            <p>Wherein if I am found tardy, I ſhall willingly ſubmit to the juſt cenſure of the faithful Examiner. If not, I hope it will be judged but reaſonable, that Mr. B. ſhould hear the blame and ſhame of ſuch Temerity and Injuſtice.</p>
+            <pb n="3" facs="tcp:104041:3"/>
+            <p n="3">
+               <note place="margin">3. The 2 I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſtances in<g ref="char:EOLunhyphen"/>ſiſted on.</note>3dly. As to theſe 2 Particulars, he is pleaſed to pick out of the bundle, and to give his exceptions againſt, notwithſtanding the uſeleſneſs (as he pleaſed to tell us) of enumerating Parti<g ref="char:EOLhyphen"/>culars, I ſhall punctually and particularly reply to, and the ra<g ref="char:EOLhyphen"/>ther becauſe it muſt be ſuppoſed ſince he vouchſafes to mention any, that they are of the greateſt moment, and by which he would have the reſt judged he doth not mention.</p>
+            <p>
+               <note place="margin">1. About Baptizing naked.</note>The firſt, and that upon which he lays the greateſt ſtreſs, is that about Baptizing naked,, telling us in theſe words p. 74. That he finds but one thing in the Book that needeth any other An<g ref="char:EOLhyphen"/>ſwer than to peruſe what is already written, and that is about Bap<g ref="char:EOLhyphen"/>tizing naked. And therefore he is pleaſed in 2 Pages to give us ſeveral new ſhifts to avoid the dint of the evidence that ſeems to gall his Conſcience, inſtead of ſuch an honeſt owning of his guilt, and taking the ſhame that ſuch notorious ſlanders, and opprobrious evil-dealing calls for, tending, as you'l find, rather to heighten and aggravate, than to leſſen or extenuate his crimes.</p>
+            <p>And which for method-ſake are gathered up to you vnder the following Heads. viz. Firſt, About what he ſaith relating to the Report it ſelf. 2dly. The time when. 3dly. The place where. 4ly. The evidence he yet ſtands by to juſtifie himſelf therein.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Falſhood </seg>1</label> Firſt, as to the Report it ſelf, he now denies, That he ever af<g ref="char:EOLhyphen"/>firmed it to be our ordinary practice to Baptize naked. His words are theſe, p. 75. The truth is, that 3 years after miſtaking my words, as if I had affirmed it to be their ordinary practice, (as you may read in them) which I never did, nor thought: They vehe<g ref="char:EOLhyphen"/>mently deny this. And ſuch heedleſs reading occaſioneth many of Mr. D's accuſatioms. Inſinuating thereby, that his accuſations and reflections reſpected only ſome of the Anabaptiſts, but not their party and way, and therefore thoſe that had miſtakingly oppoſed him, denyed that it was their ordinary practice ſo to Bap<g ref="char:EOLhyphen"/>tize, which he affirmed not. But what truth there is in this ſhift let the Reader Judge. For you'l find in his plain Scripture Proof, (the Book wherein the accuſation is) where he principally deſigns to render the Anabaptiſts and their way odious and ridiculous, he gives 8 Arguments againſt their way of Baptizing, and puts this Title to the Head of thoſe Chapters, viz. Arguments to probe the Anabaptiſts way of Baptizing ſinful. All reſpecting the whole party of Anabaptiſts. not ſome of them only. Then in p. 136. comes to his 7th. Argument: VVherein he thus expreſſeth himſelf, viz. My 7th Argument is againſt a<g ref="char:EOLhyphen"/>nother wickedneſs in their [viz. the Anabaptiſts] manner of Baptizing, which is their dipping perſons naked, as is [viz. at that preſent, not was] very uſual with many of them, or next
+<pb n="4" facs="tcp:104041:4"/>to naked, which is uſual with the modeſteſt of them, and in p. 137. if next to naked the difference is not great. And then from their uſual or ordinary cuſtom of Baptizing naked, or next to naked, which in his eſteem is much as one, thus argues, p. 136. If it be a breach of the 7th. Commandment,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t muſt alſo <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e owned, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat the ſin <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f naked <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ipping was ſo very uſual with many, and not diſow<g ref="char:EOLhyphen"/>ned by the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt, he night very well attri<g ref="char:EOLhyphen"/>bute it to the whole.</note> [Thou ſhalt not Commit Adul<g ref="char:EOLhyphen"/>tery] ordinarily to Baptize naked: Then it is intollerable wick<g ref="char:EOLhyphen"/>edneſs, and not Gods Ordinance. But it is a breach of the 7th. Commandment ordinarily to Baptize naked: Therefore it is intolle<g ref="char:EOLhyphen"/>rable wickedeneſs, and not Gods Ordinance. Upon which, ſaith Mr. Fiſher, I perceive he takes it for a truth, that we ordinarily dip naked, and thereupon diſputes againſt it as our uſual practice. And thereupon his own Quaere-man Mr. Barrott, (whom he commends ſo highly) doth in his Book, writ this preſent year, called Good will to Men, in p. 443. tell us, viz. What Mr Baxter hath writ<g ref="char:EOLhyphen"/>ten of this practice (viz of Dipping) in our Circumſtances, p. 134, to 138 (of his plain Scripture) deſerves to be well weighed, for ſo far as I am able to judge he there clearly proves, that our Dippers break the Commandment of God (viz. the 7th. Commandment here mentioned) to follow their Tradition. And pray you let Mr. Wills reſolve us, when he tells us, That the Anabaptiſts Doctrine leads to Blaſphemy and Immorality, and refers us to Mr. Baxter for ſome proof thereof, whether he doth not alſo intend this very paſſage.</p>
+            <p>So that I preſume this figment, that he did not intend us all, will ſignifie little, except it be more fully to detect his own un<g ref="char:EOLhyphen"/>faithfulneſs. For firſt his ſcope and deſign is to reach the whole party (herein.) 2ly. His 3 Arguments fully take in the whole in every one of them. 3ly. The Inſtance it ſelf in the 7th. Argument moſt expreſly doth it, who are ſo wicked, as he ſaith, to dip na<g ref="char:EOLhyphen"/>ked, or next to naked, in their uſual way of Baptizing. 4ly The Argument it ſelf, whereby he would render us Adulterors and Vi<g ref="char:EOLhyphen"/>olaters of the 7th. Commandment is for our ordinary or uſual Baptizing naked, or next to naked 5ly. You ſee others of his own Party have been ſo heedleſs (as he calls it) as well as our ſelves ſo to underſtand it. 6ly. That Mr. Fiſher, who eſpecially op<g ref="char:EOLhyphen"/>poſed him for the ſame 3 years after, doth not only deny it to be our ordinary practice, (to Baptize naked) but that any that ever he heard did ever ſo practice it in this Nation that belonged to any of the Churches, challenging him to produce but one Inſtance of any Maid or Woman that in any ſerious wiſe was ſo Baptized.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Falſhood </seg>2</label> Secondly, His next ſhift that he hopes to get relief from as an Argument he meant ſome of them only, and not the Party them<g ref="char:EOLhyphen"/>ſelves, is from the time when this was mentioned, which now 26 years after he would perſwade us reſpected only ſome in the firſt beginning of the Sect. His words ate theſe, p. 282.
+<pb n="5" facs="tcp:104041:4"/>More Proofs, viz. That in the Year 1647, or 1648. when Anabap<g ref="char:EOLhyphen"/>tiſtry began to be obtruded with more ſucceſsful fervency, I lived near Mr. Tombes, in a Countrey where ſome were, and within the hearing of their practice in other parts of the Land, and that in that beginning the common fame of Miniſters and People was, that in divers places ſome Baptized naked, and ſome did not. And p. 283. Moſt Sects do in their height and heat at firſt, that which afterwards they ſurceaſe with ſhame, mentioning the Denatiſts, Munſter Ana<g ref="char:EOLhyphen"/>baptiſts, Ranters, and Quakers And again, If he would perſwade the World that I wrote that of all the Anabaptiſts, or of moſt, or of any in any other Age, or that I have ſince ſaid that any continue the ſame practice, he would but deceive Men, for it is nothing ſo. And p. 74 of Poſtſcript. My Book was written 1649. A little before common uncontrolled ſame was, that not far from us in one place many of them were Baptized naked, &amp;c.</p>
+            <p>So that all this being laid together, he would have us think, that this reſpected only ſome in the firſt riſe of the Sect, as common fame gave it a little before he wrote his Book in 49 but in no Age or time ever ſince.</p>
+            <p>But how little Truth or Honeſty there is in this ſhuffle, let the Reader judge.</p>
+            <p>For 1ſt. It is manifeſt, that Anabaptiſme had not its riſe about this time, as he ſeems to inſinuate, for not to mention the Ana<g ref="char:EOLhyphen"/>baptiſts in H. the 8th's time, and Queen Elizabeths alſo, as ex<g ref="char:EOLhyphen"/>preſt at large in the Treatiſe of Baptiſm. p. 306. &amp;c. There were divers Churches of Anabaptiſts in the Nation many years before this, ſo that if he reſpected the beginning of the Sect, he is far leſs competent to report common fame for ſo long before, than Mr. Fiſher to deny it 3 years after. But 2dly. it is manifeſt, that the Book it ſelf that reports it, doth not give it as a hear<g ref="char:EOLhyphen"/>ſay of ſomething paſt, and practiced by a few but of the known practice of their Sect at the time of the writing thereof, his words are as before remark'd, viz. My 7th. Argument is againſt a<g ref="char:EOLhyphen"/>nother wickedneſs in their manner of Baptizing, which is their dip<g ref="char:EOLhyphen"/>ping perſons naked, as is very uſual, &amp;c. viz. as they practiced at that time of the writing of his Book, by ſuch naked Baptizing, or next to naked, not a word of Common Fame, of ſome people before that time, as now he would be thought to intend, but their known practice at that preſent.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Falſhood </seg>1</label> Thirdly, His next Subterfuge, to which he flies for ſome relief, is from the place where (then he would be thought to intend) it was ſo practiced, having, it ſeems, now found out a particu<g ref="char:EOLhyphen"/>lar place near them wherein to center it, and by which he would be underſtood not to mean it to be univerſal. His words are theſe, p. 74. Poſtſcript. Common uncontroul'd fame was, that not
+<pb n="6" facs="tcp:104041:5"/>far from us in one place many of them were Baptized naked, repro<g ref="char:EOLhyphen"/>proving the clothing way as Antiſcriptural. And therefore tells us, He applyed to Mr. Tombes himſelf, and to divers of his Church who denyed it not. And p. 75 Gives one reaſon why Mr. Haggar and Fiſher were not competent Judges of a matter of Fact far from them, viz. Mr. Fiſher in Kent, and Haggar in Staffordſhire, and Mr. Baxter, and Mr. Tombes in Worceſterſhire, and the place intend<g ref="char:EOLhyphen"/>ed <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear, or not far from Kedderminſter.</p>
+            <p>But whether this Fig-leaf will afford him any more cover than the former, will eaſily appear.</p>
+            <p>For Firſt, it is clear, the Book it ſelf reporting it, doth not con<g ref="char:EOLhyphen"/>fine it to any ſuch place in their Neighbourhood, but detects it to be the ordinary practice of the Anabaptiſts to Baptize naked, or next to naked.</p>
+            <p>And Secondly, His More Proofs tells us, the fame hereof was ſo univerſal, that it was the common conſent of that preſent time, and that to deny it would be to take all ſorts then living for Lyars.</p>
+            <p>But Thirdly, it appears he has very much miſs'd his Mark, and ill layed his matters together, to make the Anabaptiſts in his Neighbourhood (who own'd Mr. Tombes to be their Paſtor and Adminiſtrator (as now he affirms) to have been the moſt in<g ref="char:EOLhyphen"/>tereſſed perſons, p. 75. and moſt principally concern'd in this matter of Fact, ſince at another time he confeſſeth Mr. T. was of another Judgment, ſo that if very many of them did ſo uſu<g ref="char:EOLhyphen"/>ally practice the naked Dipping, it muſt be without their Admi<g ref="char:EOLhyphen"/>miniſtrator.</p>
+            <p>But Fourthly, to put the matter out of Doubt, his own words in his More Proofs will rectify him, and at leaſt diſcover to him, that he has an ill memory, vix. p. 282<g ref="char:punc">▪</g> where he tells us, That in 47, and 48. He lived near Mr. Tombes, in a Countrey where ſome were, and within the hearing of their practice in other parts of the Land, and that in that their beginning the common fame of Mi<g ref="char:EOLhyphen"/>niſters and People was, that in divers places ſome Baptized naked, and ſome did not.</p>
+            <p>So that here the common fame, it ſeems, reſpected not only one place in their Neighbourhood, but divers places through<g ref="char:EOLhyphen"/>out the Land, and therefore aſſigns common conſent at that time, and all ſorts then Living to affirm it. And the Original Book as before, That it was the uſual and ordinary wicked practice of the whole party at that time to dip naked, or next to naked, which was much as one in his account</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Falſhood </seg>
+               </label> The Fourth ſhift he makes, is reſpecting the evidence he yet ſtands by to make it good, viz 1ſt. The Poſitive Teſtimony, viz: Common Fame, 2dly. The Negative or Circumſtantial Teſtimony, viz. The non-denial of any, no not the moſt intereſſed perſons themſelves.</p>
+            <pb n="7" facs="tcp:104041:5"/>
+            <p>To the 1ſt. His More Proofs, p. 282. aſſirms it to be common fame and common conſent, and his Poſtſcript common uncontrolled fame. And again in theſe words, viz. And in a matter of Fact, if that fame be not credible, which is of things late and near, and not contradicted by any one, we muſt ſurceaſe humane converſe.</p>
+            <p>But what this ſignifies let all men judge.</p>
+            <p>It is true, when I call'd upon him for ſatisfaction for this ground<g ref="char:EOLhyphen"/>leſs ſlander, he tells us 26 years after, That he had it by common fame of Miniſters and People, and by common conſent at the preſent time, and to deny it, was to take all ſorts then living for Lyars, and again common uncontrolled fame.</p>
+            <p>But is it not very ſtrange, that if it had been ſuch a common uncontrolled fame at that time<g ref="char:punc">▪</g> that no man ſhould mention it but Mr. B. The Anabaptiſts having many bitter Enemies, who then, and before that time, wrote againſt them, and was it not much that none of them ſhould meet with that common fame, but he; for ſurely, if they had, we had heard of it from other hands beſides his own.</p>
+            <p>Though as to that kind of Evidence, viz. common fame, I had thought I had inſerted enough from Mr. B's own Pen, (out of his Chriſtian Directory) for ever to have prevented his inſiſt<g ref="char:EOLhyphen"/>ing on it any more, which tells us, It is the moſt common Cloak for the moſt inhumane lies and Calumnies, &amp;c. And was not that the Teſtimony which made the Waldenſes ſuch Villains? Paul ſuch an Heretick? and put Chriſt to death, &amp;c.</p>
+            <p>But to put the matter out of Doubt, the ground you will find, that firſt he aſſign'd for the matter of Fact, was not common fame, bear-ſay, or bare words, (which as he heretofore own'd was ſo un<g ref="char:EOLhyphen"/>certain a thing, yea ſo great a Lyar) but known experience, as his own words evidence, viz. p. 138. plain Scrip. But in both theſe Caſes, (viz. That of Murder and Adultery by dipping naked in cold water) we diſpute not againſt bare words, but experiences and known practices for their naked Baptizing is a known thing, and the wickedneſs that hath followed on ſome, and that ſome have dyed of it, viz. of naked Baptizing, not a word of common conſent, or common fame. And thereupon ſaith Sam. Fiſher, Sith that I perceive he takes it for a Truth that we ordinarily dip naked, and thereupon diſputes againſt it as our uſual practice: And then not confidently only, but of a certain relates to the whole World, that it is no bare words, nor any doubtful thing, but an ex<g ref="char:EOLhyphen"/>perience, or known practice, if he can clear himſelf let him do it, who alſo ſummon him in the Name of Chriſt Jeſus to prove it our practice ordinarily to Baptize naked, or produce but any one Witneſs of any Woman or Maid, &amp;c. And Mr. Haggar thereupon, whilſt he chargeth us to break the 7th. Commandment, lays him
+<pb n="8" facs="tcp:104041:6"/>under the breach of the 9th. for falſely accuſing his Neighbour therein.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Falſhood </seg>
+               </label> As to the 2d. concerning his Negative, or Circumſtantial Teſti<g ref="char:EOLhyphen"/>mony, which he yet with ſo much confidence ſtands by, viz. That none have to him denyed it, no not thoſe who were moſt con<g ref="char:EOLhyphen"/>cerned therein, viz. Mr. Tombes and his Church, his words are theſe, p. 75. Poſt. He now tells me, That Mr. Fiſher, Mr. Hag<g ref="char:EOLhyphen"/>gar, and Mr. Tombes did deny it. Let any one read Mr. T's An<g ref="char:EOLhyphen"/>ſwer to me, yea, and that paſſage by him now cited, and ſee whether there be a word of denial, Mr. Fiſher or Mr Haggar he never ſaw, their Books he had ſeen, but never read 2 Leaves to his remembrance of Mr Fiſhers; nor all Mr. Haggars, if he had, he had not taken them for competent Judges of a Fact far from them, and that 3 years after could they ſay that no one ever did ſo? Affirming poſitive<g ref="char:EOLhyphen"/>ly, That none ever denyed it to him, nor did he ever read any that did deny it. And in More Proofs, p. 282. When Mr. T. anſwered my Book, and thoſe very Paſſages he never denyed the truth of the thing, (though he did not ſo Baptize himſelf) intimating others might.</p>
+            <p>In anſwer whereto, we muſt firſt obſerve to you his fallacious quibble herein, viz That none ever denyed it to him. But what did they not deny? viz. That though they did not themſelves ſo practice, nor knew, nor heard of any that ſo did, yet they did not deny but ſome might, becauſe they did not know all things. But how will this relieve Mr. B. It is true, this might have been ſomething, if it had been all that Mr. B. had charged, viz. That ſome, in ſome place, he knew not where, might do ſuch a thing. But his accuſation was far otherwiſe, viz. That the Anabaptiſts Baptizing naked was a known thing, and an uſual practice of very many in divers places of the Land, and next to naked by the modeſteſt of them, which was much as one, and therefore brings the wickedneſs of Adultery therein to bear, and reflect upon the whole party and way, as their uſual and ordinary practice, which naked Baptizing Mr. Tombes, Haggar and Fiſher do all of them ſo poſitively deny, as well they may, it being the true purport, ſence and meaning of his accuſation. For otherwiſe let Mr. B. conſider how ridiculous and fooliſh it would be for an Anabaptiſt, hearing that ſome Presbyterian in ſome part of the Land did play ſome mad Pranks, ſhould there<g ref="char:EOLhyphen"/>upon charge Presbytery it ſelf therewith, and draw Arguments againſt the whole party and way for the ſame. As Mr. B. would now be thought by this kind of arguing to charge the Anabap<g ref="char:EOLhyphen"/>tiſt, and their way. And that Mr. T's Anſwer to him, as ſuggeſted, had no other ſignification than what is before hinted, take his own words in a Letter lately writ to me in Anſwer to one I
+<pb n="9" facs="tcp:104041:6"/>ſent to him, ſince Mr. B's Poſtſcript came forth, (confining the naked Baptizing to Worceſterſhire, or their Neighbourhood there<g ref="char:EOLhyphen"/>abouts about 48, to 49.) to know whether he ever heard of any ſuch thing in thoſe parts, return'd to me as followeth, viz. That he never heard or knew of any that Baptized naked, in thoſe parts, and that if he did not deny they might be Baptized naked, (though he doth not remember that ever that Queſtion was put to him by Mr. B. or any body elſe) it was becauſe he could not ſay there were none, unleſs he were omniſcient, ſome in former times having done ſo as Voſſius tells us. And therefore Mr. B himſelf in his More Proofs p. 283. can tell me, That in a Negative 25 years after, I cannot poſſibly be a competent Witneſs, no nor if I had written at that time; for who can ſay, that there was no ſuch thing done beyond his knowledge. Which is moſt certain, it being therefore the affirmers part to prove, and which being re<g ref="char:EOLhyphen"/>quired from Mr. B. he cannot produce. And as for what he ſaith, That none denyed this ſlander to him, it is notoriouſly ma<g ref="char:EOLhyphen"/>nifeſt, that both Mr. Tombes the ſame year, Mr. Fiſher and Mr. Haggar the 2 following years after, denyed the ſame to him; for they all wrote againſt him to detect his injuſtice therein; and for his now ſaying he read but 2 Leaves of Mr. Fiſher, and not all Mr. Haggars, is but miſerable trifling; for if Mr. B. write his mind in any thing, and expreſſes it but in an Epiſtle to another Book (his uſual way of dictating) or in ſome ſmall Poſtſcript or Pitance in any of his Numerous Volumes he expects all the World ſhould take notice of it, and if any that write againſt him chance to overlook it, at their perils be it, and of which they muſt expect to hear roundly. And can it be thought, that he who was the great Hector and Champion, yea eſteemed ſo much the Mall of the Anabaptiſts, would pretend to anſwer their Arguments, and not read their Books, and that in the height of the controverſie, and eſpecially wherein matter of Fact was concerned, and that of ſo hainous a nature too. And can it be though reaſonable, that Mr. B. ſhould be ſo ſhamefully injudicious to recommend Fiſhers Book to the World to be con<g ref="char:EOLhyphen"/>ſidered in the Controverſie, as he did, and not read the ſame.</p>
+            <p>Mr. Lamb and Mr. Allen, who have both of them left us, yet ex<g ref="char:EOLhyphen"/>ceedingly, as I hear, blame Mr. B. for his broaching, much more for his ſo defending this ſlander, &amp; who cannot only teſtify to the ſeem<g ref="char:EOLhyphen"/>lineſs of our Baptiſm, but their utter ignorance of ſo much as the report of naked Baptizing among us.</p>
+            <p>But it is manifeſt in his own words, That guilt is tender and ſelf-love-ſtrong, (Ep. before Dr. Tulley's Anſwer) and there<g ref="char:EOLhyphen"/>fore no wonder to ſee all theſe Shifts to ſave his reputation: But whether ſuch evil dealing (not to repeat the ſame meaſure meat<g ref="char:EOLhyphen"/>ed
+<pb n="10" facs="tcp:104041:7"/>to the Vaniſts, for which he has given no ſatisfaction) doth not beſpeak an an maimed either in his Morals or Intellects, and without repentance and due ſatisfaction utterly unfit to write us Bodies of Divinity, Chriſtian Directories, and Catholick Theolo<g ref="char:EOLhyphen"/>gies, is left to the judicious to determine.</p>
+            <p>
+               <note place="margin">Inſtance <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut fal<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing his <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elarati<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note>The other Inſtance he gives, to prove my Book is full of falſe Allegations, and ſit off with the greateſt audacity, is (as he ſaith) by thoſe few Lines of his own about their meeting at St. James's, left with the Clark groſly falſified, p. 73. Poſtſcript.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Falſhood </seg>
+               </label> Concerning which, that the Reader may better judge of this groſs falſification, let him take here the following Copy I wrote after, and what is without diſpute from the Original it ſelf, viz.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="copy_text">
+                        <head>The Copy I had from my Bookſeller.</head>
+                        <p>Though when I began to Preach in this Place, I publickly profeſ<g ref="char:EOLhyphen"/>ſed, that the notorious neceſſity of the People, who were more than the Pariſh Church can hold, mo<g ref="char:EOLhyphen"/>ved me thereto, and that we met not under any colour or pretence of any Religious Exerciſe ix other manner than according to the Li<g ref="char:EOLhyphen"/>turgy and practice of the Church of England, and that were I a<g ref="char:EOLhyphen"/>ble, I would accordingly read the ſame.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="original_text">
+                        <head>The Copy obtain'd from the Original.</head>
+                        <p>Though when I began to Preach in this Place, I publickly profeſ<g ref="char:EOLhyphen"/>ſed, that the notorious neceſſity of the People, who were more than the Pariſh Church can, hold mo<g ref="char:EOLhyphen"/>ved me thereto, and that we met not under any colour or pretence of any Religious Exerciſe in other manner than according to the Li<g ref="char:EOLhyphen"/>turgy and practice of the Church of England, and were I able, I would accordingly read my ſelf.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>So that you ſee the Sum Total of this groſs falſification lies ſingly in theſe words Read the ſame for Read my ſelf, not ano<g ref="char:EOLhyphen"/>ther Syllable different, which I humbly conceive might well have paſſed (if Mr. B. meant candidly and honeſtly) without ſuch a brand, having one and the ſame ſence and ſignification. For it Mr B. would not be thought as here he ſolemnly declares, to be a ſeperate from the publick profeſſion. he muſt give his perſo<g ref="char:EOLhyphen"/>nal aſſent and conſent to the Common Prayer, and accordingly read the ſame himſelf, as all Conformiſts do, and by Law eſta<g ref="char:EOLhyphen"/>bliſhed ought to do. And if he doth really meet under no other colour or pretence of any Religious Exerciſe in other manner than according to the Liturgy and practice of the Church of England, he muſt accordingly read the ſame himſelf, viz. the Common Prayer, as others of the Church of England, do, ſo that if he do not
+<pb n="11" facs="tcp:104041:7"/>prevaricate, but means honeſtly, as his words import, it is one and the ſame thing, and no groſs falſification. Though how far ſuch an accurate, defining and diſtinguiſhing underſtanding, a mature exerci<g ref="char:EOLhyphen"/>ſed diſcerning knowledge, (he ſeems ſo arogantly to inſinuate, he has arived to, p. 78. Poſtſcript) can by Reading accordingly him<g ref="char:EOLhyphen"/>ſelf, make it ſuch a groſs falſification, and ſo different from ac<g ref="char:EOLhyphen"/>cordingly reading the ſame, is worthy of conſideration And what mental equivocation and reſervation may lie in theſe words to relieve him at a dead lift, and to help him into a Conformiſts Pulpit, I know not, he beſt knows himſelf Though it is confi<g ref="char:EOLhyphen"/>dently affirmed by ſome, that Mr. B. hath lately in Hartfordſhire or Buckinghamſhire, in order to obtain the Pulpit (where he ſe<g ref="char:EOLhyphen"/>veral times preached in publick) read the Common Prayer, or at leaſt ſome part of it out of the Service Book. Though it is alſo ſaid, that he hath obtained that publick liberty, by vertue of a Licence he had from the Arch-Beſhop of Canterbury, but whe<g ref="char:EOLhyphen"/>ther it be one formerly granted by him, when the Biſhop of Lon<g ref="char:EOLhyphen"/>don before the Act of Conformity, (when by the Biſhop of Wor<g ref="char:EOLhyphen"/>ceſter he was ſilenced in thoſe parts) or ſince, is worthy inquiry, and the rather, becauſe in his ſaid Poſtſcript he is plea<g ref="char:EOLhyphen"/>ſed to tell us, viz. F. 79. That he is for'd to part with Houſe and Goods, and Library, and all ſave his Clothes, and poſſeſs no thing, his death being ſought after the 6 Months Impriſonment in the com<g ref="char:EOLhyphen"/>mon Goal, and continually expected, [viz. To fly from his place and charge, (if not to avoid the Croſs of Chriſt, &amp; to ſhun a ſuffering Witneſs, when ſo lo loudly call'd thereto) but how agreeable to the following Scriptures it ſubmitted to his Conſcience, viz. 2 Cor. 6.4, 5, 6, &amp;c. Acts 20.11, 12, 13. Mat. 10.38, 29. John 10.12, 13. Mat. 23.2.3, 4.] But is not this a ſtrange Paradox, that he ſhould ſuffer at that rate for a Non-conformiſt at London, and yet act the part of a Conformiſt to ſo high a degree in the Countrey. The Truth of which ſtory. if I am not miſinformed, is thus, That Mr. B. having with his friends built a new meet<g ref="char:EOLhyphen"/>ing Place near Pickadille, and preaching the firſt time in it him<g ref="char:EOLhyphen"/>ſelf, did underſtand that he was threatened with an Impriſon<g ref="char:EOLhyphen"/>ment by ſome great man (who was offended the meeting-houſe was erected ſo near him,) did to avoid the ſame withdraw him<g ref="char:EOLhyphen"/>ſelf the next week into the Countrey, procuring by himſelf or friends a Countrey Miniſter, who came to Town the week before. to preach for him in the ſaid meeting place the next Sab<g ref="char:EOLhyphen"/>both day, and who was in Mr. B's room and ſtead ſeized, and for refuſing of Oxford Oath committed to the Gate-houſe for 6 monthe, where he lay about 3 months, (but lately Releaſed by Habeas Corpus) and the ſaid meeting-houſe ſhut up for ſome time; ſo that by Proxy he ſuffers Impriſonment for a Non-conformiſt
+<pb n="12" facs="tcp:104041:8"/>in London, and in perſon (though complainingly baniſhed) out-does all the Non-conformiſts by his publick preachings in the Countrey as a Conformiſt. Which contradictions in practiſe ſo agreeable to thoſe of his Doctrines before remarked to you, puts me in mind of Biſhop Halls Letter to Welliam Laud, after<g ref="char:EOLhyphen"/>wards Arch-Biſhop of Canterabury, not unworthy to be mentio<g ref="char:EOLhyphen"/>ned upon this occaſion. Decad. Ep. 3. Ep. 5. I would I knew where to find you, then I could tell where to take a direct aim; whereas now I muſt rove and conjecture, to day you are in the Tents of the Romaniſts, to morrow in ours, the next day between both, our adverſaries think you ours, we theirs: Your Conſcience finds you with both, and neither. I flatter you not, this of yours is the worſt of all tempers; heat and Gold have their uſes, lukewarm<g ref="char:EOLhyphen"/>neſs is good for nothing but to trouble the Stomack. How long will you bault? Reſolve one way, and know at laſt what you do hold, what you ſhould caſt off, either your Wings or your Teeth, and loath<g ref="char:EOLhyphen"/>ing this Bat-like Nature be either a Bird or a Beaſt. Alas! how full are you of contradictions? How oft do you fight with your ſelf? Which I deſire Mr. B. may apply, I preſume others will as a ſuitable parallel, not only reſpecting his double dealing about Non-conformity, but even Popery it ſelf alſo. But let ſo much ſuffice as to the 2 Inſtances, by which all the reſt I have ſaid of Mr. B. is ſo much in his eſteem to be judged.</p>
+            <p n="4">4ly. As to his Rhetorical Reviling in thoſe his quibbling re<g ref="char:EOLhyphen"/>flections upon me and my Book in 9 Particulars, which take up 4 of the laſt 7 Pages, are left to the judicious Reader to deter<g ref="char:EOLhyphen"/>mine, to whom thoſe Characters (he is ſo liberal of) do moſt pro<g ref="char:EOLhyphen"/>perly belong, to me or himſelf, I being not ſo competent a Judge in my own Caſe, viz. The diſputing contender, One that ſets off the groſſeſt miſtakes with the greateſt confidence, a fierce ſtriver a<g ref="char:EOLhyphen"/>gainſt Truth, an ignorant militant, caſting fire about like Sampſons Foxes, a dividing hurtful Zealot, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> talking man that can ſay ſome<g ref="char:EOLhyphen"/>thing,<note place="margin">Let it alſo be judged <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o which if us Solo<g ref="char:EOLhyphen"/>mons Cha<g ref="char:EOLhyphen"/>racter (Prov. 21.24.) doth moſt pro<g ref="char:EOLhyphen"/>perly be<g ref="char:EOLhyphen"/>long.</note> for and againſt any thing, &amp;c. Only I beg leave to make a little Obſervation upon that mentioned by him, p. 78. wherein he acquaints us in what a forgiving frame he is, and particularly his diſpoſition to forgive me, in detecting in that way his Popery and Crimes, his changes and paſſages about the Wars, ſelf-contra<g ref="char:EOLhyphen"/>dictions and Repentances, not deſcribing or denominating my citati<g ref="char:EOLhyphen"/>ons about them, leſt he did that which ſavoured not of forgiveneſs. To which I ſay, if he thereby intends it for my faithful plain dealing, though mixt ſometimes with ſome ſharpneſs, eſpecially in ſome repetitions from Dr. Pierce and Dr. Stubbs (his needs calling for it to cure his pride, as Dr. P. obſerves to him) I then accept it, though I think his thanks had been more proper in the Caſe. But if it muſt be ſuppoſed for ſome injurious ill dealing
+<pb n="13" facs="tcp:104041:8"/>with him, thereby it is, as I conceive, a calumniating, by way of inſinuation, a recriminating inſtead of confeſſing, a giving the lye to (inſtead of anſwering and diſproving) his Reprovers. And wherein he doth not only beg inſtead of clear his own integrity ſo fully impeached, by ſuch ample demonſtration in all the Particu<g ref="char:EOLhyphen"/>lars mentioned, but alſo under pretence of Brotherly Charity, and a kiſs of Love ſtabs his Brethren under the 5th Rib. Though ſuch pretended forgiveneſs ſeems to me as ridiculous, as if a man ask ſatisfaction of another for ſome ſlanderous defamation<g ref="char:punc">▪</g> or injurious perſonal Aſſualt, (as dragging by the Hair of the Head about the Streets) and he calmly for his ſatisfaction tells him he forgives him, and that we all ſtand in need of Divine forhive<g ref="char:EOLhyphen"/>neſs.</p>
+            <div type="conclusion">
+               <head>The Concluſion.</head>
+               <p>TO Conclude, I deſire, ſince Mr. B. has pleaſed ſo confidently to affirm, That only that thing about Naked dipping (in all my Book) needs any new anſwer from him, That he will ſeriouſly conſider theſe 2 things, (which I preſume others may) viz.</p>
+               <p n="1">1. Whether the Anſwer he hath now given there<g ref="char:EOLhyphen"/>to, may rationally free him from a publick Calumnia<g ref="char:EOLhyphen"/>tor and falſe Accuſer? And if not? Whether then ſuch Crimes do not loudly call for due Humiliation, publick Acknowledgment, and Recantation? with promiſe to look better to his Spirit and Pen, for time to come? And no more to improve his accurate diſtinguiſhing fa<g ref="char:EOLhyphen"/>culty fluent invention, and ready Pen; thus to bring forth new ſhifts, to palliate or juſtifie old crimes, and con<g ref="char:EOLhyphen"/>temptiouſly to reproach and villifie thoſe that in faith<g ref="char:EOLhyphen"/>fulneſs call him to duty therein.</p>
+               <p n="2">2. Whether that, ſince it may be poſſible, he may ſo groſly miſtake himſelf in that thing he lays the grea<g ref="char:EOLhyphen"/>teſt ſtreſs upon; he may not as much fail in the reſt he ſo ſlights and under-values: And may not from thence ſee cauſe alſo, to call in queſtion his great confidence in thoſe Hetrodox Points, he hath lately ſo voluminouſly
+<pb n="14" facs="tcp:104041:9"/>tormented the World, and grieved and offended his Brethren with.</p>
+               <p>All which is humbly ſubmitted to the Judicious Reader, and Mr. Baxters Conſcience in the ſight of God; with theſe two following words, viz.</p>
+               <p n="1">1. An Aphoriſme of his own, lately ſent by him to the Learned Dr. Tully, and worthy his own remembrance all his Days, viz. He that cannot endure the ſight of his own Excrements, muſt not diſh them up to another Mans Table, leſt they be ſent him back again, Treat. of Juſt. p. 77. So agreeable to the following Scriptures though expreſs'd, as you'l find, in far better Language, and very worthy your obſervation upon this occaſion, viz. Prov. 26. 27. Pſal. 7.15, 16. Eccleſ. 10.8, 9. Mat. 7.2.</p>
+               <p>The other, That known Adage of a wiſer Man than himſelf, viz. Open rebuke is better than ſecret love. And he that rebuketh a Man afterwards, ſhall find more favour than he that flattereth with the Tongue, Prov. 27.5.28.23. Which muſt be underſtood from a Wiſe I<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n, who will therefore love his reprover better, whilſt the Scorner, he tells us, will hate him the more for ſuch faithfulneſs, Prov. 9.8, 9. But however; to provoke to that much neglected duty (to which cuarage and wiſdom is ſo much requir'd, Prov. 25.12.) tells us, That to them that ſo rebuke, ſhall be delight, and a good Bleſſing ſhall come upon them, Prov. 24.25.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>In the Marginal Note P. 4. r. That if the ſin, for That the ſin.</p>
+            <pb facs="tcp:104041:9"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
